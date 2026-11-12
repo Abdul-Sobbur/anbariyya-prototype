@@ -1,0 +1,15 @@
+{
+  "name": "Anbariyya Islamic Institute",
+  "short_name": "Anbariyya",
+  "description": "Announcements, lectures and the digital library of Anbariyya Islamic Institute, Tamale (prototype).",
+  "start_url": "/anbariyya-prototype/en/",
+  "scope": "/anbariyya-prototype/",
+  "display": "standalone",
+  "background_color": "#F8F5ED",
+  "theme_color": "#123D2E",
+  "icons": [
+    { "src": "/anbariyya-prototype/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/anbariyya-prototype/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/anbariyya-prototype/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

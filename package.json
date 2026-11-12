@@ -1,0 +1,25 @@
+{
+  "name": "anbariyya-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prototype of the Anbariyya Islamic Institute digital platform (sample content, for stakeholder review).",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "preview": "npx serve out"
+  },
+  "dependencies": {
+    "next": "15.5.29",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.6.3"
+  }
+}
